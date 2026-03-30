@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Checked for memory leaks in long-running path
+
+## 2026-03-30
+- Pinned dependency versions for reproducibility
+- Fixed off-by-one error in loop
+- Verified compatibility with latest runtime version
