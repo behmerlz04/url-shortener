@@ -26,3 +26,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Addressed feedback from self code review
+
+## 2026-04-06
+- Improved error handling in edge cases
+- Reorganised test fixtures
+- Drafted initial implementation plan for v2
